@@ -1,0 +1,8 @@
+.a{
+	color: #110000c3; /* hash value*/
+	width: 200px;
+	height: 100px;
+	background-color: rgb(255,0,0);
+	border: 5px dotted green; /* shorthand property*/
+	border-radius: 10px;
+}

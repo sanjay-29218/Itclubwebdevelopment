@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html{
+	font-size: 12px;
+}
+.container{
+	font-size: 4rem; 
+	/* 4*12px */
+}
+h1{
+	/* 4*12px */
+	font-size: 1em;
+}
+
+/* px(pixel) vh = viewport height(Takes value from browser height) */
+.about{
+	/* viewport height */
+	
+	background-color: rgb(211, 183, 183);
+	border: 3px solid brown;
+	border-radius: 5px;
+}
+/* rem unit */
+.rem{
+	/* 1rem = 12px */
+	font-size: 1em;
+	/* root element */
+	/* 1rem = 16px */
+}
+.normaltext{
+	font-size: 1em;
+}
+.parent{
+	font-size: 20px;
+
+}
+/* em = element */
+.child{
+	/* 1em = 20px */
+	font-size: 1em;
+}
