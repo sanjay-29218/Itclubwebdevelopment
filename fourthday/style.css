@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.parent{
+	background-color: aqua;
+	height: 100vh;  
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.child{
+	background-color: red;
+	height: 50vh;
+	width: 50vw;
+	
+}
+p{
+	
+	border: 4px solid black;
+	/* align-items: center; */
+	font-size: small;
+	width: 50px;
+	height: 50px;
+	padding: 20px;
+	padding: 10px 20px
+	/* padding: 10px 20px 30px 50px; */
+
+	margin: 20px 40px; 
+	background-color: green;
+}
